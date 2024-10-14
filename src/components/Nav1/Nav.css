@@ -1,0 +1,53 @@
+
+.Nav1{
+  
+    border-right: 1px solid #EBF0F5;    
+    width: 20%;
+
+}
+
+
+ul li{
+
+    list-style: none;
+    padding: 5px;
+    
+  
+    /* background-color: yellow; */
+    
+    
+}
+ul li a{
+    display: flex;
+    font-family: DM Sans;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+
+    color: #333333; 
+    text-decoration: none;
+    
+    
+   
+    padding: 10px;
+    padding-left: 45px;
+    
+   
+    
+}
+.active{
+    background-color: #F7F8FA;
+    font-weight: 700;
+   
+    color: #0B66EF;
+    border-radius: 1px 50px 50px 1px;
+    font-size: 16px;
+   
+   
+    
+}
+.blue a{
+    color:#0B66EF;
+    font-weight: 700;
+    font-size: 16px;
+}
