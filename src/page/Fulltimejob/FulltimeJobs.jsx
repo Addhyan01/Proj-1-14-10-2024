@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react'
-import './Fulltime.css'
+import './fulltime.css'
 
 
 export default function FulltimeJobs() {
