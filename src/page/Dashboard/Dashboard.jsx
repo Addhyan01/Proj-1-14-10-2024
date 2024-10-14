@@ -11,19 +11,19 @@ export default function Dashboard() {
   const images = [{
      
 
-      image: "../public/dash1.jpg",
+      image: "../dash1.jpg",
       title : "Full Stack Placement Guarantee Program",
       text : "Learn from top mentors of IIT Kharagpur, Myntra and get CTC upto 25 LPA",
       button: <button className='btn btn-sm btn-primary float-end'>View Details</button>
     },{
-      image: "../public/dash2.jpg",
+      image: "../dash2.jpg",
       title : "Data Science Placement Guarantee course",
       text : "Course prepared by top 1% Data Scientists. Take the entrance test to get apply:",
       button: <button className='btn btn-sm btn-primary float-end'>View Details</button>
 
     },
     {
-      image: "../public/dash3.png",
+      image: "../dash3.png",
       title : "",
       text : "",
       button: <button className='btn btn-sm btn-primary float-end'>View Details</button>
