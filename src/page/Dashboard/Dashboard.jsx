@@ -4,7 +4,7 @@ import NavB from '../../components/Nav2/NavB'
 import Card from 'react-bootstrap/Card';
 import Col from 'react-bootstrap/Col';
 import Row from 'react-bootstrap/Row';
-import './Dashboard.css'
+import './dashboard.css'
 
 export default function Dashboard() {
 

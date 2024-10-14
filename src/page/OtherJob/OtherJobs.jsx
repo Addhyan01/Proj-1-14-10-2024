@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react'
-import './Others.css'
+import './others.css'
 
 export default function OtherJobs() {
   const [data, setData] =useState([]);
