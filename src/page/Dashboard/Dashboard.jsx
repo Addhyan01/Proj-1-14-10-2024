@@ -30,7 +30,7 @@ export default function Dashboard() {
 
     },
     {
-      image: "../public/dash4.jpg",
+      image: "../dash4.jpg",
       title : "Pay After Placement (PAP)",
       text : "This is for students who are already skilled and looking for direct placement service. Only selected students will be given a chance.",
       button: <button className='btn btn-sm btn-primary float-end'>View Details</button>
